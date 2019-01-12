@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="starshipdark.svg" inkscape:version="0.48.0 r9654"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<filter  width="1.4" height="1.4" inkscape:menu="ABCs" inkscape:label="Simple blur" id="filter3857" y="-0.2" x="-0.2" color-interpolation-filters="sRGB" inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog">
+	
+		<feTurbulence  type="fractalNoise" result="result91" numOctaves="5" baseFrequency="0.05" stitchTiles="noStitch" id="feTurbulence3859">
+		</feTurbulence>
+	
+		<feDisplacementMap  xChannelSelector="R" yChannelSelector="A" scale="25" in="SourceGraphic" in2="result91" result="result5" id="feDisplacementMap3861">
+		</feDisplacementMap>
+	<feComposite  in="SourceGraphic" in2="result5" operator="atop" result="fbSourceGraphic" id="feComposite3863"></feComposite>
+	
+		<feColorMatrix  values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" in="fbSourceGraphic" result="fbSourceGraphicAlpha" id="feColorMatrix3871">
+		</feColorMatrix>
+	<feGaussianBlur  in="fbSourceGraphic" stdDeviation="3" id="feGaussianBlur3873"></feGaussianBlur>
+</filter>
+<filter  id="filter3820" color-interpolation-filters="sRGB">
+	<feGaussianBlur  stdDeviation="3" result="fbSourceGraphic" id="feGaussianBlur3822"></feGaussianBlur>
+	
+		<feColorMatrix  values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" in="fbSourceGraphic" result="fbSourceGraphicAlpha" id="feColorMatrix3834">
+		</feColorMatrix>
+	<feGaussianBlur  in="fbSourceGraphic" stdDeviation="0.01 5" id="feGaussianBlur3836"></feGaussianBlur>
+</filter>
+<sodipodi:namedview  bordercolor="#666666" guidetolerance="10" pagecolor="#ffffff" inkscape:cy="260.01141" borderopacity="1" objecttolerance="10" gridtolerance="10" showgrid="false" inkscape:zoom="1.0039063" inkscape:cx="422.165" id="namedview4311" inkscape:window-height="823" inkscape:window-x="0" inkscape:window-y="24" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:current-layer="svg2">
+	</sodipodi:namedview>
+<g id="starship" transform="translate(0,-540.36218)">
+	<g id="jet">
+		<g id="path3023" inkscape:connector-curvature="0" filter="url(#filter3820)">
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="304.2621" y1="652.4172" x2="337.047" y2="652.4172" gradientTransform="matrix(-1 0 0 1 520.36 -24.055)">
+				<stop  offset="0" style="stop-color:#FF9600"/>
+				<stop  offset="0.5" style="stop-color:#FF4B00"/>
+				<stop  offset="1" style="stop-color:#FF0000"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M215,652.362h-31c-1.796-15.176,9.809-31.977,15-48C204.367,620.355,218.682,634.334,215,652.362"
+				/>
+		</g>
+		<g id="use3803" transform="matrix(-1,0,0,1,512.58916,0)">
+			<g id="path3023_1_" inkscape:connector-curvature="0" filter="url(#filter3820)">
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="204.5421" y1="652.4172" x2="237.3271" y2="652.4172" gradientTransform="matrix(1 0 0 1 90.7708 -24.055)">
+					<stop  offset="0" style="stop-color:#FF9600"/>
+					<stop  offset="0.5" style="stop-color:#FF4B00"/>
+					<stop  offset="1" style="stop-color:#FF0000"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M296.411,652.362h31c1.796-15.176-9.809-31.977-15-48
+					C307.044,620.355,292.728,634.334,296.411,652.362"/>
+			</g>
+		</g>
+	</g>
+	<g id="engines">
+		<g id="use3928" transform="matrix(-1,0,0,1,512,0)">
+			
+				<linearGradient id="path3926_2_" gradientUnits="userSpaceOnUse" x1="195.8113" y1="694.2528" x2="245.3376" y2="694.2528" gradientTransform="matrix(1 0 0 1 91.36 -24.055)">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.2" style="stop-color:#252525"/>
+				<stop  offset="0.5" style="stop-color:#464646"/>
+				<stop  offset="0.8" style="stop-color:#252525"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path id="path3926" inkscape:connector-curvature="0" fill="url(#path3926_2_)" stroke="#000000" d="M312,636.362
+				c28,0,24-5,24,24v24l-24,16l-23,4c-0.009-11.334-0.801-32.667-1-44C288,632.362,283,636.362,312,636.362z"/>
+		</g>
+		
+			<linearGradient id="path3926_3_" gradientUnits="userSpaceOnUse" x1="295.5313" y1="694.2528" x2="345.0575" y2="694.2528" gradientTransform="matrix(-1 0 0 1 520.36 -24.055)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="0.2" style="stop-color:#252525"/>
+			<stop  offset="0.5" style="stop-color:#464646"/>
+			<stop  offset="0.8" style="stop-color:#252525"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path id="path3926_1_" inkscape:connector-curvature="0" fill="url(#path3926_3_)" stroke="#000000" d="M200,636.362
+			c-28,0-24-5-24,24v24l24,16l23,4c0.009-11.334,0.801-32.667,1-44C224,632.362,229,636.362,200,636.362z"/>
+	</g>
+	<g id="lasers">
+		
+			<linearGradient id="path3914_2_" gradientUnits="userSpaceOnUse" x1="415.86" y1="224.055" x2="424.86" y2="224.055" gradientTransform="matrix(-1 0 0 1 520.36 516.3072)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="0.2" style="stop-color:#252525"/>
+			<stop  offset="0.5" style="stop-color:#464646"/>
+			<stop  offset="0.8" style="stop-color:#252525"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path id="path3914" inkscape:connector-curvature="0" fill="url(#path3914_2_)" stroke="#000000" d="M104,796.362h-4h-4v-17l2-7
+			l-2-88h8l-2,88l2,7V796.362z"/>
+		<g id="use3916" transform="matrix(-1,0,0,1,504,0)">
+			
+				<linearGradient id="path3914_3_" gradientUnits="userSpaceOnUse" x1="316.14" y1="224.055" x2="325.14" y2="224.055" gradientTransform="matrix(1 0 0 1 99.36 516.3072)">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.2" style="stop-color:#252525"/>
+				<stop  offset="0.5" style="stop-color:#464646"/>
+				<stop  offset="0.8" style="stop-color:#252525"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path id="path3914_1_" inkscape:connector-curvature="0" fill="url(#path3914_3_)" stroke="#000000" d="M416,796.362h4h4v-17
+				l-2-7l2-88h-8l2,88l-2,7V796.362z"/>
+		</g>
+		<g id="g3835">
+			
+				<linearGradient id="path3821_2_" gradientUnits="userSpaceOnUse" x1="415.86" y1="224.055" x2="424.86" y2="224.055" gradientTransform="matrix(-1 0 0 1 580.36 580.3072)">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.2" style="stop-color:#252525"/>
+				<stop  offset="0.5" style="stop-color:#464646"/>
+				<stop  offset="0.8" style="stop-color:#252525"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path id="path3821" inkscape:connector-curvature="0" fill="url(#path3821_2_)" stroke="#000000" d="M164,860.362h-4h-4v-17l2-7
+				l-2-88h8l-2,88l2,7V860.362z"/>
+			<g id="use3825" transform="matrix(-1,0,0,1,512,0)">
+				
+					<linearGradient id="path3821_3_" gradientUnits="userSpaceOnUse" x1="316.14" y1="224.055" x2="325.14" y2="224.055" gradientTransform="matrix(1 0 0 1 31.36 580.3072)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="0.2" style="stop-color:#252525"/>
+					<stop  offset="0.5" style="stop-color:#464646"/>
+					<stop  offset="0.8" style="stop-color:#252525"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<path id="path3821_1_" inkscape:connector-curvature="0" fill="url(#path3821_3_)" stroke="#000000" d="M348,860.362h4h4v-17
+					l-2-7l2-88h-8l2,88l-2,7V860.362z"/>
+			</g>
+		</g>
+	</g>
+	<g id="hull">
+		
+			<linearGradient id="path3134_1_" gradientUnits="userSpaceOnUse" x1="263.86" y1="820.4172" x2="456.86" y2="820.4172" gradientTransform="matrix(-1 0 0 1 520.36 -24.055)">
+			<stop  offset="0" style="stop-color:#323232"/>
+			<stop  offset="0.3486" style="stop-color:#646464"/>
+			<stop  offset="1" style="stop-color:#969696"/>
+		</linearGradient>
+		<path id="path3134" inkscape:connector-curvature="0" fill="url(#path3134_1_)" stroke="#000000" d="M256,988.362h-6
+			c-42-96-38.856-138.662-58-208l-112-96l-16-80h7l25,48l120,48c8-64,40-64,40-96"/>
+		
+			<linearGradient id="use3136_1_" gradientUnits="userSpaceOnUse" x1="164.14" y1="820.4172" x2="357.14" y2="820.4172" gradientTransform="matrix(1 0 0 1 91.36 -24.055)">
+			<stop  offset="0" style="stop-color:#323232"/>
+			<stop  offset="0.3486" style="stop-color:#646464"/>
+			<stop  offset="1" style="stop-color:#969696"/>
+		</linearGradient>
+		<path id="use3136" inkscape:connector-curvature="0" fill="url(#use3136_1_)" stroke="#000000" d="M256,988.362h6
+			c42-96,38.856-138.662,58-208l112-96l16-80h-7l-25,48l-120,48c-8-64-40-64-40-96"/>
+	</g>
+	<g id="cockpit" transform="translate(0,16)">
+		
+			<linearGradient id="path3910_2_" gradientUnits="userSpaceOnUse" x1="263.86" y1="772.4371" x2="297.7668" y2="772.4371" gradientTransform="matrix(-1 0 0 1 520.36 -40.055)">
+			<stop  offset="0" style="stop-color:#FF9600"/>
+			<stop  offset="0.5" style="stop-color:#FF4B00"/>
+			<stop  offset="1" style="stop-color:#FF0000"/>
+		</linearGradient>
+		<path id="path3910" inkscape:connector-curvature="0" fill="url(#path3910_2_)" stroke="#000000" d="M256,764.362
+			c-17,1-27-17-32-32c-2-3-7.457-32,16-32c3.081,6.835,6.994,13.115,16,16"/>
+		<g id="use3912" transform="matrix(-1,0,0,1,512,0)">
+			
+				<linearGradient id="path3910_3_" gradientUnits="userSpaceOnUse" x1="164.14" y1="772.4371" x2="198.0468" y2="772.4371" gradientTransform="matrix(1 0 0 1 91.36 -40.055)">
+				<stop  offset="0" style="stop-color:#FF9600"/>
+				<stop  offset="0.5" style="stop-color:#FF4B00"/>
+				<stop  offset="1" style="stop-color:#FF0000"/>
+			</linearGradient>
+			<path id="path3910_1_" inkscape:connector-curvature="0" fill="url(#path3910_3_)" stroke="#000000" d="M256,764.362
+				c17,1,27-17,32-32c2-3,7.457-32-16-32c-3.081,6.835-6.994,13.115-16,16"/>
+		</g>
+	</g>
+	<g id="torpedo_launchers" inkscape:label="#torpedo_launchers">
+		
+			<linearGradient id="path4267_2_" gradientUnits="userSpaceOnUse" x1="288.36" y1="344.055" x2="288.36" y2="360.055" gradientTransform="matrix(-1 0 0 1 528.36 548.3072)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		<path id="path4267" inkscape:connector-curvature="0" opacity="0.5" fill="url(#path4267_2_)" enable-background="new    " d="
+			M248,908.362c-2.009-11.595,1.563-31.069-8-32c-9.369,0.818-5.873,20.54-8,32"/>
+		<g id="use4269" transform="matrix(-1,0,0,1,512,0)">
+			
+				<linearGradient id="path4267_3_" gradientUnits="userSpaceOnUse" x1="188.64" y1="344.055" x2="188.64" y2="360.055" gradientTransform="matrix(1 0 0 1 83.36 548.3072)">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+			</linearGradient>
+			
+				<path id="path4267_1_" inkscape:connector-curvature="0" opacity="0.5" fill="url(#path4267_3_)" enable-background="new    " d="
+				M264,908.362c2.009-11.595-1.563-31.069,8-32c9.369,0.818,5.873,20.54,8,32"/>
+		</g>
+	</g>
+</g>
+<g id="explosion" sodipodi:rx="160" sodipodi:type="arc" sodipodi:cx="256" sodipodi:ry="160" sodipodi:cy="256" display="none" filter="url(#filter3857)">
+	
+		<radialGradient id="SVGID_3_" cx="245.6335" cy="332.5622" r="160" gradientTransform="matrix(1.5786 -0.0082 -0.0081 -1.6 -128.075 782.1461)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FF1900"/>
+		<stop  offset="1" style="stop-color:#FFFF00;stop-opacity:0"/>
+	</radialGradient>
+	<path display="inline" fill="url(#SVGID_3_)" d="M509.576,246.718c0.715,141.385-111.789,256.588-251.285,257.313
+		C118.795,504.756,5.131,390.729,4.416,249.344S116.205-7.244,255.701-7.969S508.861,105.333,509.576,246.718z"/>
+</g>
+</svg>

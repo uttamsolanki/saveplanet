@@ -1,0 +1,42 @@
+Images
+1. (player)-fighter.png 
+http://opengameart.org/content/space-ship-0
+
+2.spaceship - spaceship.png 
+http://www.iconarchive.com/show/transport-icons-by-aha-soft/UFO-icon.html
+3. Bullet.png - 
+http://www.iconarchive.com/show/smith-and-wesson-icons-by-calle/Single-Bullet-icon.html
+4. explosion1.png
+http://opengameart.org/content/explosions
+
+5.Buttons of game ( Including pause,play,Reset,help,mute and Home are 
+Self modified in the photoshopscreenshots are attached in the modifications folder)
+
+6.airplane (airplane.png)
+http://opengameart.org/content/space-starter-kit
+
+7. Background image (planets.jpg)
+http://nightscript.deviantart.com/art/The-Planets-of-My-Universe-52688678
+
+8. Level 1 Background image (level1.png)
+https://pixabay.com/en/solar-system-planets-space-414388/
+9. Level 2 Background image (level2.png)
+https://www.google.com.au/search?q=stars+wallpaper+hd+1920x1080&hl=en-AU&tbs=simg:CAQSkwEJd7AfsoglkqQahwELEKjU2AQaAggADAsQsIynCBpgCl4IAxIm1gGUC5ULJNcB6gf1FsgBjQxk2SjaKJ03hCPcKLgnsyrbKOEhziEaMFhjR4L-BP46wD6vpv2rMbO4WHCsNBh0JPtABODrZac-1SVuySxpTWDhLxytRsE7ECADDAsQjq7-CBoKCggIARIEUWCG-gw,sur:fc&tbm=isch&source=lnt&sa=X&ved=0ahUKEwjn25zx5ubMAhUiOKYKHUTUDDIQpwUIFA&dpr=1&biw=1366&bih=635#imgrc=d7AfsoglkqRzgM%3A
+10. Level 3 Background image  (level3.png)
+http://www.publicdomainpictures.net/view-image.php?image=156312&picture=universe
+11. Screenshot at home  (play.png)
+clicked form working game
+Music 
+1. Background music
+http://opengameart.org/content/blast-off-0
+
+2. Explosion sound
+http://opengameart.org/content/synthesized-explosion 
+
+3. Bullet fire sound
+http://opengameart.org/content/shots 
+
+4. Game over (SVCGame Over.Mid)
+http://opengameart.org/content/rpg-game-over-musiclullaby
+
+
